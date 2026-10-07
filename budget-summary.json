@@ -1,0 +1,210 @@
+{
+  "reportDate": "2026-10-06",
+  "exactProjectedSeasonCost": 30498.34,
+  "publicSeasonBudgetTarget": 31000,
+  "endingCashGoal": 8000,
+  "exactAdditionalFundingNeeded": 12764.29,
+  "exactAdditionalFundingWithCarryover": 20764.29,
+  "usableCash": 16003.35,
+  "confirmedFutureFunding": 0,
+  "actualSpent": 1730.7,
+  "pendingCommitments": 0,
+  "projectedPurchasesRemaining": 28767.64,
+  "engineeringReserveSplit": [
+    {
+      "project": "Micro",
+      "share": 0.25,
+      "target": 279.87,
+      "remaining": 279.87
+    },
+    {
+      "project": "Regular",
+      "share": 0.6,
+      "target": 671.68,
+      "remaining": 671.68
+    },
+    {
+      "project": "Shared",
+      "share": 0.15,
+      "target": 167.91,
+      "remaining": 167.91
+    }
+  ],
+  "allocations": [
+    {
+      "name": "Travel + Competition",
+      "exactProjectedCost": 16000,
+      "displayAmount": 16000
+    },
+    {
+      "name": "Structures",
+      "exactProjectedCost": 4891.74,
+      "displayAmount": 4890
+    },
+    {
+      "name": "Electrical",
+      "exactProjectedCost": 3296.26,
+      "displayAmount": 3300
+    },
+    {
+      "name": "Manufacturing",
+      "exactProjectedCost": 2196.08,
+      "displayAmount": 2200
+    },
+    {
+      "name": "Aerodynamics",
+      "exactProjectedCost": 0,
+      "displayAmount": 0
+    },
+    {
+      "name": "Programming",
+      "exactProjectedCost": 380,
+      "displayAmount": 380
+    },
+    {
+      "name": "Marketing",
+      "exactProjectedCost": 2572.33,
+      "displayAmount": 2570
+    },
+    {
+      "name": "Engineering Reserves",
+      "exactProjectedCost": 1119.46,
+      "displayAmount": 1120
+    },
+    {
+      "name": "Other / Unassigned",
+      "exactProjectedCost": 42.47,
+      "displayAmount": 42.47
+    }
+  ],
+  "sponsorshipFunding": {
+    "Received": 10660.3,
+    "Confirmed": 0,
+    "Expected": 0,
+    "Possible": 10000
+  },
+  "groups": [
+    {
+      "project": "Regular",
+      "rows": [
+        {
+          "subteam": "Aerodynamics",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 0,
+          "total": 0
+        },
+        {
+          "subteam": "Structures",
+          "actual": 568.56,
+          "committed": 0,
+          "remaining": 3215.7,
+          "total": 3784.26
+        },
+        {
+          "subteam": "Electrical",
+          "actual": 752.31,
+          "committed": 0,
+          "remaining": 1597.39,
+          "total": 2349.7
+        },
+        {
+          "subteam": "Unassigned / program-wide",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 671.68,
+          "total": 671.68
+        }
+      ],
+      "total": 6805.64
+    },
+    {
+      "project": "Micro",
+      "rows": [
+        {
+          "subteam": "Aerodynamics",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 0,
+          "total": 0
+        },
+        {
+          "subteam": "Structures",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 1107.48,
+          "total": 1107.48
+        },
+        {
+          "subteam": "Electrical",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 946.56,
+          "total": 946.56
+        },
+        {
+          "subteam": "Unassigned / program-wide",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 279.87,
+          "total": 279.87
+        }
+      ],
+      "total": 2333.91
+    },
+    {
+      "project": "Shared",
+      "rows": [
+        {
+          "subteam": "Programming",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 380,
+          "total": 380
+        },
+        {
+          "subteam": "Manufacturing",
+          "actual": 162.04,
+          "committed": 0,
+          "remaining": 2034.04,
+          "total": 2196.08
+        },
+        {
+          "subteam": "Marketing",
+          "actual": 205.32,
+          "committed": 0,
+          "remaining": 2367.01,
+          "total": 2572.33
+        },
+        {
+          "subteam": "Unassigned / program-wide",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 167.91,
+          "total": 167.91
+        }
+      ],
+      "total": 5316.32
+    },
+    {
+      "project": "Management",
+      "rows": [
+        {
+          "subteam": "Travel",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 12300,
+          "total": 12300
+        },
+        {
+          "subteam": "Competition",
+          "actual": 0,
+          "committed": 0,
+          "remaining": 3700,
+          "total": 3700
+        }
+      ],
+      "total": 16000
+    }
+  ]
+}

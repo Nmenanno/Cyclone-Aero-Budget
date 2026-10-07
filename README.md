@@ -1,5 +1,9 @@
-# Cyclone Aero Budget
+# Cyclone Aero sponsor budget
 
-Sponsor-facing budget overview and subteam breakdown for Iowa State Cyclone Aero Design. Contains aggregate presentation files only; no source ledger or donor names.
+Two-page sponsor budget briefing for 2026–2027.
 
-The overview and GitHub Pages publication are pending confirmation of the latest sponsorship totals from the budget tracker.
+Live site: https://nmenanno.github.io/Cyclone-Aero-Budget/
+
+Funding snapshot verified October 7, 2026 against the internal tracker. Received sponsorship is already included in cash. Possible sponsorship is excluded from secured funding.
+
+Contains aggregate budget figures only. Update these static files when the tracker changes.
