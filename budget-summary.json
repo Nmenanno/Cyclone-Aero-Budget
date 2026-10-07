@@ -38,8 +38,8 @@
     },
     {
       "name": "Structures",
-      "exactProjectedCost": 4891.74,
-      "displayAmount": 4890
+      "exactProjectedCost": 4001.74,
+      "displayAmount": 4000
     },
     {
       "name": "Electrical",
@@ -53,8 +53,8 @@
     },
     {
       "name": "Aerodynamics",
-      "exactProjectedCost": 0,
-      "displayAmount": 0
+      "exactProjectedCost": 890,
+      "displayAmount": 890
     },
     {
       "name": "Programming",
@@ -91,15 +91,15 @@
           "subteam": "Aerodynamics",
           "actual": 0,
           "committed": 0,
-          "remaining": 0,
-          "total": 0
+          "remaining": 890,
+          "total": 890
         },
         {
           "subteam": "Structures",
           "actual": 568.56,
           "committed": 0,
-          "remaining": 3215.7,
-          "total": 3784.26
+          "remaining": 2325.7,
+          "total": 2894.26
         },
         {
           "subteam": "Electrical",
